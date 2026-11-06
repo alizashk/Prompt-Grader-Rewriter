@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+models/bert_prompt_classifier/
+bert_training/
+.streamlit/secrets.toml
